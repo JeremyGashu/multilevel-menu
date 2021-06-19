@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610537595783",
+    "project_id": "multi-level-25e65",
+    "storage_bucket": "multi-level-25e65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610537595783:android:0725809eb0500b133ee922",
+        "android_client_info": {
+          "package_name": "com.example.multiilevel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610537595783-14cj5fbt071ogn8edkdok64fqnbseqo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsGqXGmWqgi02v7mSHHfMTNV-E8a5t4Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610537595783-14cj5fbt071ogn8edkdok64fqnbseqo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
